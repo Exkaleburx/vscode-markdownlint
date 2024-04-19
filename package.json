@@ -41,7 +41,7 @@
 	"main": "./bundle",
 	"browser": "./bundle.web",
 	"dependencies": {
-		"ignore": "5.3.0",
+		"ignore": "5.3.1",
 		"js-yaml": "4.1.0",
 		"jsonc-parser": "3.2.1",
 		"markdownlint-cli2": "0.12.1",
